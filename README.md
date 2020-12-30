@@ -1,4 +1,12 @@
-# Hi, I'm Ulysse <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+# Hi, I'm Ulysse <img src="https://raw.githubusercontent.com/Ulysse3311/Ulysse3311/master/wave.gif" width="30px">
+
+My name is Ulysse BERTHET, I'm a data science and software engineering student at ESILV in Paris. I'm also working at ENEDIS as an apprentice. <br>
+- 🔭 I’m currently working on solving the Redi Cube and spam emails detection using machine learning
+- 🌱 I’m currently learning Docker and Linux
+- 📫 How to reach me: [<img src="https://raw.githubusercontent.com/Ulysse3311/Ulysse3311/master/linkedin.svg" width="10px">](https://www.linkedin.com/in/ulysse-berthet/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ulysse3311&hide=prs,contribs,stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ulysse3311/Ulysse3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
