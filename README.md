@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Ulysse <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **Ulysse3311/Ulysse3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
