@@ -5,7 +5,7 @@ My name is Ulysse BERTHET, I'm a data science and software engineering student a
 - 🔭 I’m currently working on solving the Redi Cube and spam emails detection using machine learning
 - 🌱 I’m currently learning Docker and Linux
 - 👯 I’m looking to collaborate on a betting arbitrage (surebet) algorithm 
-- 📫 How to reach me :  [<img src="https://raw.githubusercontent.com/Ulysse3311/Ulysse3311/master/LinkedIn.png" width="20px">](https://www.linkedin.com/in/ulysse-berthet/)
+- 📫 How to reach me :  [<img src="https://raw.githubusercontent.com/Ulysse3311/Ulysse3311/master/LinkedIn.png" width="20px">](https://bit.ly/linkedin_ulysse_berthet)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ulysse3311&hide=prs,contribs,stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
