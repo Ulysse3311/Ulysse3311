@@ -1,7 +1,7 @@
 
 # Hi, I'm Ulysse <img src="https://raw.githubusercontent.com/Ulysse3311/Ulysse3311/master/wave.gif" width="30px">
 
-My name is Ulysse BERTHET, I'm a data science and software engineering student at ESILV in Paris. I'm also working at ENEDIS as an apprentice. <br>
+My name is Ulysse BERTHET, I'm a data science and software engineering student at ESILV in Paris. I'm also working at Shift Technology as an apprentice. <br>
 - 🔭 I’m currently working on solving the Redi Cube and spam emails detection using machine learning
 - 🌱 I’m currently learning Docker and Linux
 - 👯 I’m looking to collaborate on a betting arbitrage (surebet) algorithm 
